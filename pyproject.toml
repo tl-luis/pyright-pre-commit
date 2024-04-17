@@ -2,7 +2,7 @@
 name = "pyright-pre-commit"
 version = "0.0.0"
 dependencies = [
-    "pyright==1.1.358",
+    "pyright==1.1.359",
 ]
 
 [project.optional-dependencies]
